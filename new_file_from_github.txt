@@ -1,2 +1,2 @@
-ovo je drugi docu unutar druge vijezbe
+new content
 ovo je nova linija na fileu 3 dan tečaja
