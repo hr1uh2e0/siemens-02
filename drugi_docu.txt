@@ -1,2 +1,2 @@
 ovo je drugi docu unutar druge vijezbe
-ovo je nova linija na fileu 3 dan tečaja
+prva promjena ovog filea
